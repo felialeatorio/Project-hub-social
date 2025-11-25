@@ -1,13 +1,9 @@
-<h1 align="center"> Baseado no projeto abaixo </h1> <br><br>
-<p align="center"> Projeto feito com inspiração no modelo abaixo, a ideia inicial era ser algo empresarial separado por grupos e setores de dentro de uma empresa, infelizmente o projeto nunca foi terminado e ficou apenas essa parte por completo</p> <br>
+<h1 align="center"> Based on the project below </h1> <br><br>
+<p align="center"> Project inspired by the model below. The initial idea was to create a business-oriented project separated into groups and sectors within a company. Unfortunately, the project was never completed, and only this part remains.</p> <br>
 <p align="center">
   <a href="https://artmin96.github.io/argon-social/" target="_blank">
     <img alt="Argon Social" title="Argon Social" src="https://github.com/ArtMin96/argon-social/blob/master/assets/images/logo-256x256.png" width="450">
   </a>
-</p>
-
-<p align="center">
-  Watch DEMO - v0.2
 </p>
 
 <p align="center">
@@ -16,8 +12,6 @@
   </a>
 </p>
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Pages
 
 - Sign Up
@@ -27,7 +21,6 @@
 - Messenger
 - Settings - Basic info, contact info, password, location
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Screenshot
 
